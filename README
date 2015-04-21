@@ -1,3 +1,11 @@
+I think that you designed yours to be run on an IOS and I only have the android emulator. The link to facebook works seamlessly; 
+however, the landing page was pretty scrambled and the buttons make the program fail and close when clicked. Your name and contact 
+information becomes covered by the buttons. Basically the dimesions just need to be changed in order to work on the android appllication. 
+I couldn't figure out how to keep the buttons from running an error, though. The code looks correct and it's basically the same code 
+I used for my buttons that worked. 
+Good choice on the color scheme! the background behind your name is great and the font color integrates well. 
+
+
 Welcome to your Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
